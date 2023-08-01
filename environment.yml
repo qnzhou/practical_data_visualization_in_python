@@ -12,3 +12,5 @@ dependencies:
     - pyarrow
     - fastparquet
     - openpyxl
+    - geopandas
+    - mnist
